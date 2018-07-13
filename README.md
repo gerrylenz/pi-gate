@@ -49,6 +49,11 @@ sudo apt install git
 git clone https://github.com/gerrylenz/pi-gate
 ```
 
+Problems
+```shell
+The bcm2835 library hang/crash with kernel 4.14.xx - 4.14.54
+```
+
 ### Coding
 ================================
 
