@@ -43,6 +43,7 @@ sudo make install
 
 Clone repository
 ```shell
+cd
 sudo apt update
 sudo apt install git
 git clone https://github.com/gerrylenz/pi-gate
