@@ -1,5 +1,5 @@
 <img src="https://ex-store.de/images/pi-gate/lo_pi-gate.png" height="25%" width="25%" alt="pi-gate ®"><br>
-RadioHead Packet Radio library for 433MHz/868MHz<br>pi-gate ® board 
+RadioHead Packet Radio library for 433MHz/868MHz<br>pi-gate® board 
 =================================================
 <p align="center"><img src="https://ex-store.de/images/pi-gate/github.png" alt="pi-gate ®"></p>
 
@@ -12,8 +12,8 @@ This is a fork of the original RadioHead Packet Radio library for embedded micro
 ### features added with this fork
 =================================
 
-- Added driver for Pi-Gate® board
-- Added samples for Pi-Gate® board
+- Added driver for pi-gate® board
+- Added samples for pi-gate® board
 
 Driver code is located under [/RH_PI-GATE.cpp][5] and [/RH_PI-GATE.h][6].<br>
 Sample code for Raspberry PI is located under [/examples/raspi/pi-gate][3] folder.
