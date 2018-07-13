@@ -3,7 +3,7 @@ RadioHead Packet Radio library for 433MHz/868MHz<br>pi-gate® board
 =================================================
 <p align="center"><img src="https://ex-store.de/images/pi-gate/github.png" alt="pi-gate ®"></p>
 
-###Version 1.67
+### Version 1.67
 
 This is a fork of the original RadioHead Packet Radio library for embedded microprocessors. It provides a complete object-oriented library for sending and receiving packetized messages via Semtech SX1276 chip on a range of embedded microprocessors.
 
