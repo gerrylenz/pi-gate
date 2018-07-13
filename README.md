@@ -25,12 +25,20 @@ You need install bcm2835 library
 
 This library consists of a single non-shared library and header file, which will be installed in the usual places by make install
 ```shell
+For Raspberry 2 - 3 change the line
+#define BCM2835_PERI_BASE               0x20000000
+to
+//#define BCM2835_PERI_BASE               0x20000000
+#define BCM2835_PERI_BASE               0x3F00000000
+```
+```shell
 wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.55.tar.gz
 tar zxvf bcm2835-1.55.tar.gz
 cd bcm2835-1.xx
 ./configure
 make
 sudo make check
+sudo make install
 ```
 
 Clone repository
